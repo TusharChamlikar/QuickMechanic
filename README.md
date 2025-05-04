@@ -1,6 +1,6 @@
 # 🚗 Quick Mechanic
 
-Quick Mechanic is a full-stack web application that connects users with nearby mechanics and predicts vehicle issues using machine learning and has OTP-BASED user authentication.
+The app connects shared vehicle owners, including small fleet operators and individual drivers, with trusted mechanics for on-demand repairs and scheduled maintenance. It helps reduce vehicle breakdowns, ride cancellations, and downtime. The platform offers cost-effective, timely, and efficient repair services. Through location-based features, users can easily find nearby mechanics. By improving vehicle reliability, the app enhances service quality and supports the earnings of small-scale operators. It also has OTP-BASED User authentication feature.
 
 This project uses:
 - 🖥️ **React + Vite** for the frontend
@@ -57,7 +57,7 @@ The Spring Boot backend communicates with the Flask ML service for predictions a
 ⚡ Fast, responsive UI with React and Vite
 
 👨‍💻 Developer
-Made with ❤️ by Tushar Chamlikar
+Made by Tushar Chamlikar
 
 
 
